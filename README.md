@@ -1,5 +1,6 @@
 # re-portfolio
 https://nadjaantonjak.github.io/re-portfolio/
+
 reating a reactive portfolio page so its up to date for people to see when they visit. contributors- Nadja Antonjak
 
 I was motivated to create a reactive portfolio my portfolio so its up to date and is able to potray the new work ive completed. showcasing my new work is important to me as it shows off my hard work and new skills im am able to bring with me to the working field when companies are looking at my work.
